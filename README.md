@@ -7,8 +7,8 @@ Original repo: https://github.com/sohzm/cheating-daddy
 ## Quick Start
 
 ```bash
-chmod +x Cheating-Daddy-Linux-0.5.0-FINAL.AppImage
-./Cheating-Daddy-Linux-0.5.0-FINAL.AppImage
+chmod +x Cheating-Daddy.AppImage
+./Cheating-Daddy.AppImage
 ```
 
 Get API key at [Google AI Studio](https://aistudio.google.com/apikey)
